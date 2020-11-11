@@ -6,6 +6,7 @@
 - 📚 Learning C++, .NET 
 ## Main programming languages
 | <img src="https://www.clipartmax.com/png/full/200-2002716_software-development-clipart-practical-c-logo.png" height="75"> | <img src="https://static.tildacdn.com/tild6137-6663-4538-a464-363665363534/68747470733a2f2f6469.png" height="75"> |
+| -------- | -------- |
 
 
 ### I also work with 
